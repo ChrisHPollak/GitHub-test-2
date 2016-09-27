@@ -18,8 +18,11 @@ class ViewController: UIViewController {
 		
 		print("this is a new change")
 		
+
 		print("just to try")
 		
+		print("just checking")
+
 	}
 
 	override func didReceiveMemoryWarning() {
