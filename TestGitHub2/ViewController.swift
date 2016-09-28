@@ -21,7 +21,6 @@ class ViewController: UIViewController {
 
 		print("just to try")
 		
-		print("just checking")
 
 	}
 
